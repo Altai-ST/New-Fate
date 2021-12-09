@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 9fbfefbf3d0ffc84d999856571fbc6e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8620733642117618183
+    second: New fate-03 1_0
+  - first:
+      213: -7066177340311734871
+    second: New fate-03 1_1
+  - first:
+      213: -7331406619943642570
+    second: New fate-03 1_2
+  - first:
+      213: -3363047787661592542
+    second: New fate-03 1_3
+  - first:
+      213: -5805654026083704262
+    second: New fate-03 1_4
+  - first:
+      213: 9027044125435828352
+    second: New fate-03 1_5
+  - first:
+      213: 4341767257846868959
+    second: New fate-03 1_6
+  - first:
+      213: -2090748501910726683
+    second: New fate-03 1_7
+  - first:
+      213: 9085830605573694219
+    second: New fate-03 1_8
+  - first:
+      213: -4605424848525195071
+    second: New fate-03 1_9
+  - first:
+      213: -5542200912809722051
+    second: New fate-03 1_10
+  - first:
+      213: -1303182184012250609
+    second: New fate-03 1_11
+  - first:
+      213: -2348840841316327009
+    second: New fate-03 1_12
+  - first:
+      213: -424054894036815385
+    second: New fate-03 1_13
+  - first:
+      213: -2377165397069035041
+    second: New fate-03 1_14
+  - first:
+      213: -9206320296175079322
+    second: New fate-03 1_15
+  - first:
+      213: -7652973528836020050
+    second: New fate-03 1_16
+  - first:
+      213: 6158273958689248960
+    second: New fate-03 1_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New fate-03 1_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5176
+        width: 841
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1ea9a29ff2a770800000000000000
+      internalID: 8620733642117618183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_1
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5176
+        width: 842
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5fdcea525efed90800000000000000
+      internalID: -7066177340311734871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_2
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 5176
+        width: 840
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63adf4ac58c914a90800000000000000
+      internalID: -7331406619943642570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_3
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 5176
+        width: 841
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22874c5fadd0451d0800000000000000
+      internalID: -3363047787661592542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3947
+        width: 844
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e6764c6c2e6fa0800000000000000
+      internalID: -5805654026083704262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_5
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3947
+        width: 841
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08811640ec0864d70800000000000000
+      internalID: 9027044125435828352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_6
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 3947
+        width: 842
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb626d315e014c30800000000000000
+      internalID: 4341767257846868959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_7
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3947
+        width: 842
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e75ee4905b2cf2e0800000000000000
+      internalID: -2090748501910726683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2717
+        width: 841
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a7960cca571e70800000000000000
+      internalID: 9085830605573694219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_9
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2717
+        width: 841
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c806e7308e3610c0800000000000000
+      internalID: -4605424848525195071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_10
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2717
+        width: 841
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f712632a52613b0800000000000000
+      internalID: -5542200912809722051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_11
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 2717
+        width: 841
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02055c45ba2aede0800000000000000
+      internalID: -1303182184012250609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1441
+        width: 842
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91296313bd376fd0800000000000000
+      internalID: -2348840841316327009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_13
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1441
+        width: 854
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17ba312547d1af0800000000000000
+      internalID: -424054894036815385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_14
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1441
+        width: 840
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd989578aac920fd0800000000000000
+      internalID: -2377165397069035041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_15
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 1441
+        width: 841
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660f302c7749c3080800000000000000
+      internalID: -9206320296175079322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 213
+        width: 1448
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8e24a6f1d2bc590800000000000000
+      internalID: -7652973528836020050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New fate-03 1_17
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 213
+        width: 840
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c616399985967550800000000000000
+      internalID: 6158273958689248960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
